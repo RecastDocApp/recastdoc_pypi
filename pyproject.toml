@@ -3,10 +3,10 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "image_converter_rishabhd2"
+name = "recastdoc"
 version = "0.0.1"
 authors = [{ name = "Rishabh Dubey", email = "rishabhdubey020@gmail.com" }]
-description = "Convert image to PDF, PNG, JPG and more."
+description = "Convert and Compress Documents."
 readme = "README.md"
 requires-python = ">=3.12"
 classifiers = [
@@ -16,5 +16,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/RecastDocApp/image_converter"
-Issues = "https://github.com/RecastDocApp/image_converter/issues"
+Homepage = "https://github.com/RecastDocApp/recastdoc_pypi"
+Issues = "https://github.com/RecastDocApp/recastdoc_pypi/issues"
