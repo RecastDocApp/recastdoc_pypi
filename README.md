@@ -1,5 +1,3 @@
-# Example Package
+# RecastDoc
 
-This is a simple example package. You can use
-[GitHub-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
+Convert or Compress documents like Images, PDFs, Docs and more.
