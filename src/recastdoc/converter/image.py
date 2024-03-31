@@ -1,2 +1,0 @@
-def toPDF():
-    return "PDF"
